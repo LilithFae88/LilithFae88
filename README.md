@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilithFae88
+- 👋 Hi, I’m Ana
 - 👀 I’m interested in learning to code and I’m currently learning C# :)
 - 💞️ I’m looking to collaborate on some minor projects to start with, where I can learn the programming :)
 - 📫 You can find me on cactusfuctus@hotmail.com if you want to help me with some of my, very probable many of first mistakes, while I'm learning and if you want to give 
